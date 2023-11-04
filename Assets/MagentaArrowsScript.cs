@@ -156,13 +156,13 @@ public class MagentaArrowsScript : MonoBehaviour
         var btns = new List<KMSelectable>();
         for (int i = 1; i <= 2; i++)
         {
-            if (m.Groups[1].Value == "up" || m.Groups[1].Value == "u")
+            if (m.Groups[i].Value == "up" || m.Groups[i].Value == "u")
                 btns.Add(ArrowSels[0]);
-            else if (m.Groups[1].Value == "rght" || m.Groups[1].Value == "r")
+            else if (m.Groups[i].Value == "right" || m.Groups[i].Value == "r")
                 btns.Add(ArrowSels[1]);
-            else if (m.Groups[1].Value == "down" || m.Groups[1].Value == "d")
+            else if (m.Groups[i].Value == "down" || m.Groups[i].Value == "d")
                 btns.Add(ArrowSels[2]);
-            else if (m.Groups[1].Value == "left" || m.Groups[1].Value == "l")
+            else if (m.Groups[i].Value == "left" || m.Groups[i].Value == "l")
                 btns.Add(ArrowSels[3]);
             else
                 yield break;
