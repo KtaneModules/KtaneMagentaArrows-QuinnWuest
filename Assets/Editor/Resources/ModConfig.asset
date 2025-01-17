@@ -16,8 +16,8 @@ MonoBehaviour:
   author: Quinn Wuest
   description: "Stop saying \u201Cpoint\u201D for everything. What does that even
     mean! Point!\r\nPointity point point point!\r\r\nThere\u2019s no call for that
-    kind of language, laddie.\n\nMade by Quinn Wuest\n\n[url=https://ktane.timwi.de/HTML/Type%20Racer.html]Manual
-    HTML[/url]\r\n[url=https://ktane.timwi.de/HTML/Type%20Racer.pdf]Manual PDF[/url]"
+    kind of language, laddie.\n\nMade by Quinn Wuest\n\n[url=https://ktane.timwi.de/HTML/Magenta%20Arrows.html]Manual
+    HTML[/url]\r\n[url=https://ktane.timwi.de/HTML/Magenta%20Arrows.pdf]Manual PDF[/url]"
   version: 1.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 54bfedd1cc5baea49aae4c56b0d8bb15, type: 3}
